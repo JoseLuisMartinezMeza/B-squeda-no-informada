@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 25 21:37:47 2023
 
-@author: El Pepe
-"""
 class Accion:
     def __init__(self,nombre):
         self.nombre=nombre
